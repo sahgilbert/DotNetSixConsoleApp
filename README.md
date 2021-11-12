@@ -1,4 +1,4 @@
-# ML.Net Model Builder Extension
+# ML.Net Model Builder Extension (Issue Reproduction)
 - A .Net console app for testing image classification via the ML.Net Model Builder Extension.
 - This repository reproduces [the following issue #1886](https://github.com/dotnet/machinelearning-modelbuilder/issues/1886) within the extension.
 
